@@ -1,4 +1,6 @@
 import React, { ChangeEvent } from 'react'
+import 'app.css'
+
 
 interface Param {
   id: number;
