@@ -1,5 +1,5 @@
 import React, { ChangeEvent } from 'react'
-import 'app.css'
+import './app.css'
 
 
 interface Param {
